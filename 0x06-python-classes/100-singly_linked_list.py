@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+Node Class Module
+"""
 
 
 class Node:
